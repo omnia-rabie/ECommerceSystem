@@ -1,0 +1,12 @@
+git rm -r --cached .
+bin/
+obj/
+*.db
+*.mdf
+*.ldf
+*.sqlite
+*.env
+appsettings.json
+*.user
+*.suo
+.vs/
